@@ -1,5 +1,5 @@
 # We know Git but what is GitHub?
-
+![github](https://lamachinerie.org/wp-content/uploads/2019/06/github.jpg)
 ## After being introduced to Git as a version control system. It's necessary to get with it a little farther and know more about GitHub.
 
 * It's mainly an internet hosting for software development and version control using Git.
