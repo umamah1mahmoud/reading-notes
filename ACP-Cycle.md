@@ -1,5 +1,5 @@
 # ACP Cycle
-![acp](https://www.linode.com/docs/guides/how-to-install-git-and-clone-a-github-repository/git-github-workflow-1000w.png)
+![acp](https://softcover.s3.amazonaws.com/636/learn_enough_git/images/figures/git_status_sequence.png)
 ## 1. Add
 ## 2. Commit
 ## 3. Push
