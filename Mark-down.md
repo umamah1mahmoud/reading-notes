@@ -10,6 +10,6 @@ Keeping the project updated and backed up obviously comes very handy in accessin
 
 `All that said and much more can make markdown used with Git and GitHub, the best tool for web development.`
 
-* You might as well find the following video by GitHub really useful. And would help you a great deal in further research.
+* You might as well find the following video by GitHub really useful. And would help you a great deal in further research. 
 
 [![WHAT IS GITHUB PAGES](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)](https://youtu.be/2MsN8gpT6jY)
