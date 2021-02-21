@@ -1,4 +1,5 @@
 # ***MARKDOWN***
+![markdown interface](https://www.tecmint.com/wp-content/uploads/2016/07/ReText-Markdown-Editor-for-Linux.png)
 ### You must've heard a lot about this term if you had any interest about coding or has done any little search. So what exactly is markdown?
 * According to GitHub website which is derived for the famous version control system Git, *"Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform."*
 So, basically it's a plain text formatting syntax in a more web-development friendly environment. And a software tool, that converts the plain text formatting to HTML. It can be considered as a way to communicate between developers.
