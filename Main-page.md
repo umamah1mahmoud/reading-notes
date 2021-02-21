@@ -14,6 +14,6 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 | -------------- |
 | [Growth mindset](https://umamah1mahmoud.github.io/reading-notes/) |
 | [Markdown](https://umamah1mahmoud.github.io/reading-notes/Mark-down)       |
-| Git            |
-| GitHub         |
-| ACP cycle      |
+| [Git](https://umamah1mahmoud.github.io/reading-notes/Git)            |
+| [GitHub](https://umamah1mahmoud.github.io/reading-notes/GitHub)         |
+| [ACP cycle](https://umamah1mahmoud.github.io/reading-notes/ACP Cycle)      |
