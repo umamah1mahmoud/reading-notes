@@ -2,7 +2,7 @@
 
 ![NOTES](https://i.pinimg.com/originals/93/6f/fe/936ffe6ad27d05098fc860daeab84b2f.jpg)
 
-#### My name is UMAMAH MAHMOUD, an architect and software developer to be.
+## My name is Umamah Mahmoud, an architect and software developer to be.
 
 And here is [my GitHub](https://github.com/umamah1mahmoud) for further information and communication.
 
