@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Growth mindset
+## What is it and how is it different from fixed mindset?
 
-You can use the [editor on GitHub](https://github.com/umamah1mahmoud/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![growth mindset](https://nextbigwhat.com/wp-content/uploads/2019/03/growth-mindset-min.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Let's start here with demonstrating what a fixed mindset exactly is. It might be the easy option at most of cases. As it names states, being fixed is usually linked to not having to do any extra efforts, but rather escape issues and situations. It stands for example, for choosing to ignore criticism and running away from any upcoming obstacles and seeing them as fruitless efforts. A fixed mindset does not believe in hard work development. It's a be or not to be term, you have the talent or you don't! Which is something far from the truth and far from real life practical thinking.
 
-### Markdown
+* On the other hand, growth mindset believes in constant development, enhancement and hard work. Of course, it's not putting the brain and talent aside! It's what the growth is based and built on. But in the same time does not depend on them only. Choosing growth mentality is choosing the hard way, which happens to be the only right way in most of times. Specially when talking about problems solving or digging into new fields of knowledge. Briefly said, `"No pain, no gain!"`. Facing new challenges is believed to raise our self confidence as we explore our abilities, ones we never knew we had!.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* All that said. We're aware now how growth mindset would deal with either self or other people's criticism. Criticism is most welcomed and taken in consideration. All of this is absolutely hard to keep up with. That's why it's essential to stay persistent and not go the easier way out and waste all the efforts that been done and even future ones that might be achieved. Maintenance is crucial, it's challenging but totally worth it. The achievement feeling is priceless and something we all long for.
 
-```markdown
-Syntax highlighted code block
+* Most of us -if not all- will mostly find this agreeable and relatable. But we must keep reminding ourselves of the most basic things sometimes. I sincerely wish I could have a part in your reminding process. **The rest how ever is all up to you.** It's really only you who can decide for yourself and help yourself grow bigger and better!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umamah1mahmoud/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information about this, you might find this article helpful as well [A developer's thoughts on maintaining focus with the growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
