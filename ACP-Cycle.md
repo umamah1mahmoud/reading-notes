@@ -1,5 +1,5 @@
 # ACP Cycle
-![acp](https://i1.kknews.cc/SIG=2fpdesr/ctp-vzntr/ss073son398546on917695q58416o224.jpg)
+![acp](https://res.cloudinary.com/practicaldev/image/fetch/s--7O2HAtye--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/tk6mspyqpuohkynw4wft.png)
 ## 1. Add
 ## 2. Commit
 ## 3. Push
