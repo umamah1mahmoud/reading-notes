@@ -8,7 +8,7 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 
 
 
-| Topics         |
+| TOPICS         |
 | -------------- |
 | [Growth mindset](https://umamah1mahmoud.github.io/reading-notes/) |
 | [Markdown](https://umamah1mahmoud.github.io/reading-notes/Mark-down)       |
