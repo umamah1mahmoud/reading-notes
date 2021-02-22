@@ -19,6 +19,33 @@ _**CSS**_ works by associating rules with HTML elements. As we mentioned in the 
 
 _**One**_ can either use internal or external CSS. The priority goes to internal. However, external can be more flexible and easier to apply on larger scales. It helps in deviding HTML codes from styling codes in CSS.
 
-* I hope those reading notes helped you having a brief knowledge about CSS.
+
+
+# **[Color]**
+
+_**Colors**_ are very important part of the whole web pages development process. It can bring pages to life by modifying each part or page of the project. The whole designing is a visual presentation. That been said we can see how important a color role can be.
+
+_**So,**_ how exactly do we specify colors for specific parts? There are three ways to specify any color in CSS:
+
+1. RGB Values
+2. HEX Codes
+3. Colors names 
+
+Examples for three of them as been mentioned:
+
+1. rgb(102,205,170)
+2. #66cdaa
+3. MediumAquaMarine
+
+Three of those are different ways to describe the exact same color!
+
+_**Now**_ It is important to ensure that there is enough contrast
+between any text and the background color (otherwise
+people will not be able to read your content).
+
+
+
+
+* I hope those reading notes helped you having a brief knowledge about CSS and colors.
 * Those notes source is: HTML & CSS
 Design and Build Websites - By: Jon Ducket
