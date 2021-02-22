@@ -12,14 +12,3 @@
 * Most of us -if not all- will mostly find this agreeable and relatable. But we must keep reminding ourselves of the most basic things sometimes. I sincerely wish I could have a part in your reminding process. **The rest how ever is all up to you.** It's really only you who can decide for yourself and help yourself grow bigger and better!
 
 For more information about this, you might find this article helpful as well, [A developer's thoughts on maintaining focus with the growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-
-# READING NOTES
-
-![NOTES](https://i.pinimg.com/originals/93/6f/fe/936ffe6ad27d05098fc860daeab84b2f.jpg)
-
-## My name is Umamah Mahmoud, an architect and software developer to be.
-
-And here is [my GitHub](https://github.com/umamah1mahmoud) for further information and communication.
-
-### Welcome to my reading notes main page. Here you will find some notes of readings I came by during my studying in the coding course by ASAC.
