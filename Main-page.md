@@ -12,7 +12,7 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 
 | TOPICS         |
 | -------------- |
-| [Growth mindset](https://umamah1mahmoud.github.io/Growth-mindset/) |
+| [Growth mindset](https://umamah1mahmoud.github.io/reading-notes/Growth-mindset/) |
 | [Markdown](https://umamah1mahmoud.github.io/reading-notes/Mark-down)       |
 | [Git](https://umamah1mahmoud.github.io/reading-notes/Git)            |
 | [GitHub](https://umamah1mahmoud.github.io/reading-notes/GitHub)         |
