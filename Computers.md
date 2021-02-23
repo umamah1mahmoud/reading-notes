@@ -53,4 +53,4 @@ Of course! The cpu. With circuits to send and recieve information from different
 
 I sincerely wish this came handy to give you better understanding for what a computer is.
 
-My amazing source: ! [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+My amazing source:  [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
