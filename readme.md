@@ -22,3 +22,4 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 | [JavaScript](https://umamah1mahmoud.github.io/reading-notes/JavaScript) |
 | [How Computers Work](https://umamah1mahmoud.github.io/reading-notes/Computers) | 
 | [JavaScript Pt.2](https://umamah1mahmoud.github.io/reading-notes/JavaScript2nd) |
+| [JS Operators and Loops](https://umamah1mahmoud.github.io/reading-notes/OperatorsAndLoops) |
