@@ -9,7 +9,8 @@ Comparison operators usually return single values of **true** or **false**. **Lo
 
 * Some of the most importantLogical operators are:
 ![logicalexamples](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Logical-Operators.jpeg)
-----------------------------------------------
+
+
 ## Loops
 After understanding operators and their main functions. We will now move to loops so, what is a loop? We are familiar with this term in our daily life. For example when you like a song on YouTube you put it on loop to keep repeating it. It is the same basic concept here but of course in more detailful way.
 
