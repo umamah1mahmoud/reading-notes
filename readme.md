@@ -20,4 +20,5 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 | [HTML](https://umamah1mahmoud.github.io/reading-notes/HTML)      |
 | [CSS and Color](https://umamah1mahmoud.github.io/reading-notes/CSS-and-color)|
 | [JavaScript](https://umamah1mahmoud.github.io/reading-notes/JavaScript) |
-| [How Computers Work](https://umamah1mahmoud.github.io/reading-notes/Computers) |
+| [How Computers Work](https://umamah1mahmoud.github.io/reading-notes/Computers) | 
+| [JavaScript Pt.2](https://umamah1mahmoud.github.io/reading-notes/JavaScript2nd) |
